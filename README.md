@@ -1,4 +1,4 @@
-#Data scientist
+Data scientist
 
 ###Education
 3rd year BSc hons.
